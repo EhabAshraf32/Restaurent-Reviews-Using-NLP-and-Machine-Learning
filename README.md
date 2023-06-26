@@ -1,1 +1,1 @@
-# Restaurent-Reviews-Using-NLP-and-Machine-Learning
+# Restaurant-Reviews-Using-NLP-and-Machine-Learning
